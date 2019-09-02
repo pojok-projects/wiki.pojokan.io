@@ -4,5 +4,5 @@
 
 ## DevOps
 
-* [Backend Infrastructure as a Code](devops/IaaC-backend.md)
+* [Backend Infrastructure as a Code](devops/iaac-backend.md)
 
