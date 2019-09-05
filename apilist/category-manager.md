@@ -6,9 +6,6 @@
 
 ## API Docs
 
-- https://cm27.docs.apiary.io/
-
-- Api Endpoint:
 - Api Docs: [https://cm27.docs.apiary.io/](https://cm27.docs.apiary.io/)
 
 ## API Repository
