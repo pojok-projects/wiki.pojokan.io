@@ -18,7 +18,7 @@ Content Manager manages the input and output processes with simple validation fr
 
 See Red highlight below for the scope of this repository.
 
-![Content Manager Highlight](https://github.com/pojok-projects/tutorialsystem-content-manager/blob/master/images/Content_Manager_highlight.png)
+![Content Manager Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-content-manager/blob/master/images/Content_Manager_highlight.png)
 
 ## Table Structure End Points
 
