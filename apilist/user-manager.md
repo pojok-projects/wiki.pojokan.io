@@ -22,13 +22,13 @@ See Red highlight below for the scope of this repository.
 
 ## API Paths
 
-## User
+### User
 
 Represents User Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                | Method | INFO              |
 | ------------------ | ------ | ----------------- |
@@ -41,7 +41,7 @@ Represents User Details.
 
 ---
 
-## Requests Tables Parameters
+#### Requests Tables Parameters
 
 | Parameter       | type   | Status   | Description                     |
 | --------------- | ------ | -------- | ------------------------------- |
@@ -59,13 +59,13 @@ Represents User Details.
 
 ---
 
-## User Following
+### User Following
 
 Represents User Following Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                              | Method | INFO                               |
 | ------------------------------------------------ | ------ | ---------------------------------- |
@@ -75,7 +75,7 @@ Represents User Following Details.
 
 ---
 
-## Following Table Parameters
+#### Following Table Parameters
 
 | Parameter           | type   | Status   | Description               |
 | ------------------- | ------ | -------- | ------------------------- |
@@ -83,13 +83,13 @@ Represents User Following Details.
 
 ---
 
-## User Follower
+### User Follower
 
 Represents User Follower Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                            | Method | INFO                                   |
 | ---------------------------------------------- | ------ | -------------------------------------- |
@@ -99,7 +99,7 @@ Represents User Follower Details.
 
 ---
 
-## Follower Table Parameters:
+#### Follower Table Parameters:
 
 | Parameter          | type   | Status   | Description              |
 | ------------------ | ------ | -------- | ------------------------ |
@@ -107,13 +107,13 @@ Represents User Follower Details.
 
 ---
 
-## User Like Video
+### User Like Video
 
 Represents User Like Video Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                               | Method | INFO                                     |
 | ------------------------------------------------- | ------ | ---------------------------------------- |
@@ -123,7 +123,7 @@ Represents User Like Video Details.
 
 ---
 
-## Like Video Table Parameters
+#### Like Video Table Parameters
 
 | Parameter  | type   | Status   | Description    |
 | ---------- | ------ | -------- | -------------- |
@@ -132,13 +132,13 @@ Represents User Like Video Details.
 
 ---
 
-## User Dislike Video
+### User Dislike Video
 
 Represents User Dislike Video Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                                     | Method | INFO                                       |
 | ------------------------------------------------------- | ------ | ------------------------------------------ |
@@ -148,7 +148,7 @@ Represents User Dislike Video Details.
 
 ---
 
-## Dislike Video Table Parameters
+#### Dislike Video Table Parameters
 
 | Parameter  | type   | Status   | Description    |
 | ---------- | ------ | -------- | -------------- |
@@ -157,13 +157,13 @@ Represents User Dislike Video Details.
 
 ---
 
-## User Saved Video
+### User Saved Video
 
 Represents User Saved Video Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                                 | Method | INFO                                      |
 | --------------------------------------------------- | ------ | ----------------------------------------- |
@@ -173,7 +173,7 @@ Represents User Saved Video Details.
 
 ---
 
-## Saved Video Table Parameters
+#### Saved Video Table Parameters
 
 | Parameter  | type   | Status   | Description    |
 | ---------- | ------ | -------- | -------------- |
@@ -181,13 +181,13 @@ Represents User Saved Video Details.
 
 ---
 
-## User History Video
+### User History Video
 
 Represents User History Video Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                                     | Method | INFO                                        |
 | ------------------------------------------------------- | ------ | ------------------------------------------- |
@@ -198,7 +198,7 @@ Represents User History Video Details.
 
 ---
 
-## User History Video Table Parameters
+#### User History Video Table Parameters
 
 | Parameter    | type   | Status   | Description              |
 | ------------ | ------ | -------- | ------------------------ |
@@ -207,13 +207,13 @@ Represents User History Video Details.
 
 ---
 
-## User Playlists
+### User Playlists
 
 Represents User Playlists Details.
 
 ---
 
-## Table Structure End Points
+#### Table Structure End Points
 
 | URL                                              | Method | INFO                                    |
 | ------------------------------------------------ | ------ | --------------------------------------- |
@@ -224,7 +224,7 @@ Represents User Playlists Details.
 
 ---
 
-## User Playlists Table Parameters
+#### User Playlists Table Parameters
 
 | Parameter             | type   | Status   | Description                        |
 | --------------------- | ------ | -------- | ---------------------------------- |
