@@ -1,0 +1,69 @@
+# Category Manager of Tutorial System
+
+## API END POINT
+
+- https://api.tutorialinaja.tech/catm/v1
+
+## API Docs
+
+- https://cm27.docs.apiary.io/
+
+- Api Endpoint:
+- Api Docs: [https://cm27.docs.apiary.io/](https://cm27.docs.apiary.io/)
+
+## API Repository
+
+- Api Repository: [https://github.com/pojok-projects/tutorialsystem-category-manager](https://github.com/pojok-projects/tutorialsystem-category-manager)
+
+## Description
+
+Category Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
+
+See Red highlight below for the scope of this repository.
+
+![Category Manager Highlight](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/Content_Manager_highlight.png)
+
+## Table Structure End Points
+
+| URL                    | Method | INFO              |
+| ---------------------- | ------ | ----------------- |
+| `category`             | GET    | Get All Data      |
+| `category/store`       | POST   | Save Data         |
+| `category/{id}`        | GET    | Get Data by ID    |
+| `category/search`      | GET    | Search Data Query |
+| `category/update/{id}` | PUT    | Update Data by ID |
+| `category/delete/{id}` | DELETE | Delete Data by ID |
+
+## Example screen shots of API invocations
+
+### [GET] Get Category
+
+![Get Category](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/01-get-category.png)
+
+### [POST] Input Category Success
+
+![Input Category Success](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/02-post-category-success.png)
+
+### [POST] Input Category Already Availale
+
+![Input Category Already Availale](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/03-post-category-already-available.png)
+
+### [GET] Get Detail Category
+
+![Get Detail Category](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/04-get-detail-category.png)
+
+### [PUT] Update Category Success
+
+![Update Category Success](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/06-put-update-category-success.png)
+
+### [PUT] Update Category Already Availale
+
+![Update Category Already Availale](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/07-put-update-category-already-availabe.png)
+
+### [DELETE] Delete Category
+
+![Delete Category](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/08-delete-category.png)
+
+### [POST] Input Category Validation
+
+![Input Category Validation](https://github.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/09-post-category-validation.png)

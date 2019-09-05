@@ -1,20 +1,29 @@
-# DBIL (Database Interfaces Layer)
-* Api Endpoint: [https://api.tutorialinaja.tech/dbil/v1/](https://api.tutorialinaja.tech/dbil/v1/)
-* Api Docs: [https://dbil.docs.apiary.io/](https://dbil.docs.apiary.io/)
-* Api Diagram: [https://dbdiagram.io/d/5d60b65bced98361d6dddf7b](https://dbdiagram.io/d/5d60b65bced98361d6dddf7b)
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-database-interface-layer](https://github.com/pojok-projects/tutorialsystem-database-interface-layer)
+# Content Manager of Tutorial System
 
-# Content Manager
-* Api Endpoint: 
-* Api Docs: 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
+## API END POINT
 
-# Category Manager
-* Api Endpoint: 
-* Api Docs: [https://cm27.docs.apiary.io/](https://cm27.docs.apiary.io/)
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-category-manager](https://github.com/pojok-projects/tutorialsystem-category-manager)
+- https://api.tutorialinaja.tech/conm/v1
 
-# User Manager
-* Api Endpoint: 
-* Api Docs: [https://upa43.docs.apiary.io/](https://upa43.docs.apiary.io/)
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-user-manager](https://github.com/pojok-projects/tutorialsystem-user-manager)
+## API Docs
+
+- (?) TBC
+
+## API Repository
+
+- Api Repository: [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
+
+## Description
+
+Content Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
+
+See Red highlight below for the scope of this repository.
+
+![Content Manager Highlight](https://github.com/pojok-projects/tutorialsystem-content-manager/blob/master/images/Content_Manager_highlight.png)
+
+## Table Structure End Points
+
+(?) TBC
+
+## Example screen shots of API invocations
+
+(?) TBC
