@@ -16,6 +16,10 @@
 
 User Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
 
+See Red highlight below for the scope of this repository.
+
+![User Management](User-Management.png)
+
 ## API Paths
 
 ## User
