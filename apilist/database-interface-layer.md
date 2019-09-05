@@ -29,7 +29,7 @@ As the result of this service, the Input and Output query into content-category 
 
 See Red highlight below for the scope of this repository.
 
-![Database Interface Layer Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Content_Manager_highlight.png)
+![Database Interface Layer Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Content_Manager_highlight.png)
 
 ## Table Structure API End Points
 
@@ -80,16 +80,16 @@ See Red highlight below for the scope of this repository.
 
 ## Example screen shots of API invocations
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01283.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01283.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01284.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01284.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01285.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01285.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01286.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01286.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01287.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01287.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01290.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01290.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/blob/master/images/Selection_01291.png)
+![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01291.png)

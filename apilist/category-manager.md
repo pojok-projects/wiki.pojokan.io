@@ -21,7 +21,7 @@ Category Manager manages the input and output processes with simple validation f
 
 See Red highlight below for the scope of this repository.
 
-![Category Manager Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/Content_Manager_highlight.png)
+![Category Manager Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/Content_Manager_highlight.png)
 
 ## Table Structure End Points
 
@@ -38,32 +38,32 @@ See Red highlight below for the scope of this repository.
 
 ### [GET] Get Category
 
-![Get Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/01-get-category.png)
+![Get Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/01-get-category.png)
 
 ### [POST] Input Category Success
 
-![Input Category Success](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/02-post-category-success.png)
+![Input Category Success](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/02-post-category-success.png)
 
 ### [POST] Input Category Already Availale
 
-![Input Category Already Availale](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/03-post-category-already-available.png)
+![Input Category Already Availale](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/03-post-category-already-available.png)
 
 ### [GET] Get Detail Category
 
-![Get Detail Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/04-get-detail-category.png)
+![Get Detail Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/04-get-detail-category.png)
 
 ### [PUT] Update Category Success
 
-![Update Category Success](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/06-put-update-category-success.png)
+![Update Category Success](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/06-put-update-category-success.png)
 
 ### [PUT] Update Category Already Availale
 
-![Update Category Already Availale](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/07-put-update-category-already-availabe.png)
+![Update Category Already Availale](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/07-put-update-category-already-availabe.png)
 
 ### [DELETE] Delete Category
 
-![Delete Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/08-delete-category.png)
+![Delete Category](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/08-delete-category.png)
 
 ### [POST] Input Category Validation
 
-![Input Category Validation](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/blob/master/images/09-post-category-validation.png)
+![Input Category Validation](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/09-post-category-validation.png)
