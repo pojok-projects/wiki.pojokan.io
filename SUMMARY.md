@@ -4,8 +4,8 @@
 
 ## Application Flow
 
-* [Target Architecture Process](application-flow/target-architecture-process/README.md)
-  * [Simple Application Flow](application-flow/target-architecture-process/simple-application-flow.md)
+* [Simple Application Flow](application-flow/simple-application-flow.md)
+* [Backend API Relationship](application-flow/backend-api-relationship.md)
 
 ## API Documentations
 
