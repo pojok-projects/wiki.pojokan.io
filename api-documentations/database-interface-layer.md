@@ -11,7 +11,7 @@ description: 'Main Developer: Juni Yadi (https://github.com/JuniYadi)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Aug 24, 2019 12:32 PM`
+First Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
 {% endhint %}
 
 ## API Docs

@@ -11,7 +11,7 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Aug 27, 2019 3:33 AM`
+First Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 {% endhint %}
 
 ## API Docs

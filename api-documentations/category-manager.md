@@ -11,7 +11,7 @@ description: 'Main Developer: Vibi Primantono (https://github.com/hapehatelo)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Sep 6, 2019 3:29 AM`
+First Publish Date: `Sep 6, 2019 3:29 AM (AEST)`
 {% endhint %}
 
 ## API Docs
