@@ -1,8 +1,12 @@
+---
+description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
+---
+
 # Content Manager
 
 ## API END POINT
 
-* [https://api.tutorialinaja.tech/conm/v1](https://api.tutorialinaja.tech/conm/v1)
+* [https://api.tutorialinaja.tech/conm/v1/](https://api.tutorialinaja.tech/conm/v1/)
 
 {% hint style="success" %}
 Status: `LIVE`

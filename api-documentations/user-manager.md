@@ -1,8 +1,12 @@
+---
+description: 'Main Developer: Vibi Primantono (https://github.com/hapehatelo)'
+---
+
 # User Manager
 
 ## API END POINT
 
-* [https://api.tutorialinaja.tech/upa/v1](https://api.tutorialinaja.tech/upa/v1)
+* [https://api.tutorialinaja.tech/upa/v1/](https://api.tutorialinaja.tech/upa/v1/)
 
 {% hint style="success" %}
 Status: `LIVE`
@@ -12,7 +16,7 @@ First Publish Date: `Sep 8, 2019 2:21 AM`
 
 ## API Docs
 
-* Api Docs: [https://upa43.docs.apiary.io/](https://upa43.docs.apiary.io/)
+* Api Docs: [https://tutorialsystemusermanager.docs.apiary.io/\#](https://tutorialsystemusermanager.docs.apiary.io/#)
 
 ## API Repository
 

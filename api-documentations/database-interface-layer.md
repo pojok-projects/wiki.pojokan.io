@@ -1,8 +1,12 @@
+---
+description: 'Main Developer: Juni Yadi (https://github.com/JuniYadi)'
+---
+
 # Database Interface Layer
 
 ## API END POINT
 
-* Api Endpoint: [https://api.tutorialinaja.tech/dbil/v1/](https://api.tutorialinaja.tech/dbil/v1/)
+* [https://api.tutorialinaja.tech/dbil/v1/](https://api.tutorialinaja.tech/dbil/v1/)
 
 {% hint style="success" %}
 Status: `LIVE`
@@ -12,13 +16,13 @@ First Publish Date: `Aug 24, 2019 12:32 PM`
 
 ## API Docs
 
-* Api Docs: [https://dbil.docs.apiary.io/](https://dbil.docs.apiary.io/)
+* Api Docs: [https://tutorialinajadatabaseinterfacelayer.docs.apiary.io/\#](https://tutorialinajadatabaseinterfacelayer.docs.apiary.io/#)
 
 ## Entity Relationship Diagram
 
 * [x] [Sprint 1](https://dbdiagram.io/d/5d28c8f8ced98361d6dc9bab)
 * [x] [Sprint 2](https://dbdiagram.io/d/5d2edb4fced98361d6dcbc9f)
-* [ ] [Spirnt 2 \(Refactoring\)](https://dbdiagram.io/d/5d60b65bced98361d6dddf7b) \[We Are Here Now\]
+* [ ] [Sprint 2 \(Refactoring\)](https://dbdiagram.io/d/5d60b65bced98361d6dddf7b) \[We Are Here Now\]
 
 ## API Repository
 
@@ -86,17 +90,17 @@ See Red highlight below for the scope of this repository.
 
 ## Example screen shots of API invocations
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01283.png)
+![content/category/store](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01283.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01284.png)
+![content/category/store](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01284.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01285.png)
+![content/category/&amp;lt;id&amp;gt;](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01285.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01286.png)
+![content/category/](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01286.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01287.png)
+![content/category/update/&amp;lt;id&amp;gt;](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01287.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01290.png)
+![content/category/search](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01290.png)
 
-![RESTAPI.jpg](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01291.png)
+![content/category/search](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Selection_01291.png)
 

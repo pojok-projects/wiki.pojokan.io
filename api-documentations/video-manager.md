@@ -1,8 +1,12 @@
+---
+description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
+---
+
 # Video Manager
 
 ## API END POINT
 
-* [https://api.tutorialinaja.tech/vidm/v1](https://api.tutorialinaja.tech/vidm/v1)
+* [https://api.tutorialinaja.tech/vidm/v1/](https://api.tutorialinaja.tech/vidm/v1/)
 
 {% hint style="warning" %}
 Status: `PENDING`
