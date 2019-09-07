@@ -2,12 +2,12 @@
 
 ## API END POINT
 
-* [https://api.tutorialinaja.tech/usem/v1](https://api.tutorialinaja.tech/usem/v1)
+* [https://api.tutorialinaja.tech/upa/v1](https://api.tutorialinaja.tech/upa/v1)
 
-{% hint style="warning" %}
-Status: `PENDING`
+{% hint style="success" %}
+Status: `LIVE`
 
-First Publish Date: `(?) TBC`
+First Publish Date: `Sep 8, 2019 2:21 AM`
 {% endhint %}
 
 ## API Docs

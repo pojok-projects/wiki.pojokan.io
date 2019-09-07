@@ -55,50 +55,61 @@ Copy all the files from link above and modify the makefile example from the link
 Please set the access key credentials:
 
 ```text
-The following access key need to be added into the ~/.aws/credentials file: 
-``` 
-[pojokan] 
-aws_access_key_id = <access-key> 
-aws_secret_access_key = <secret-key> 
-``` 
+The following access key need to be added into the ~/.aws/credentials file:
+```
+
+\[pojokan\] aws\_access\_key\_id =  aws\_secret\_access\_key = 
+
+```text
+
 ```
 
 Set environment variables:
 
 ```text
-The AWS cli profile for with access to a CICD account role: 
-``` 
-export AWS_PROFILE=pojokan 
-``` 
+The AWS cli profile for with access to a CICD account role:
+```
+
+export AWS\_PROFILE=pojokan
+
+```text
+
 ```
 
 Set the makefile parameter values.
 
 ```text
-Ensure the solution name is correct: 
-``` 
-SolutionNaming="<set short name of the cloudformation solution shorter than 64 characters>" 
-``` 
+Ensure the solution name is correct:
+```
 
-Ensure the RepositoyName is correct: 
-``` 
-RepositoyName="<refer to the github account repoository name>" 
-``` 
+SolutionNaming=""
 
-Ensure the SlackChannel is correct: 
-``` 
-SlackChannel="#pullrequests" 
-``` 
+```text
+Ensure the RepositoyName is correct:
+```
 
-Ensure the SlackIcon is correct: 
-``` 
-SlackIcon=":aws-codecommit" 
-``` 
+RepositoyName=""
 
-Ensure the SlackURL is correct: 
-``` 
-SlackURL="<set the webhook of the SlackURL>" 
-``` 
+```text
+Ensure the SlackChannel is correct:
+```
+
+SlackChannel="\#pullrequests"
+
+```text
+Ensure the SlackIcon is correct:
+```
+
+SlackIcon=":aws-codecommit"
+
+```text
+Ensure the SlackURL is correct:
+```
+
+SlackURL=""
+
+```text
+
 ```
 
 To deploy CICD pipeline:
