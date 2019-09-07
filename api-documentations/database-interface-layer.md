@@ -4,6 +4,12 @@
 
 * Api Endpoint: [https://api.tutorialinaja.tech/dbil/v1/](https://api.tutorialinaja.tech/dbil/v1/)
 
+{% hint style="success" %}
+Status: `LIVE`
+
+First Publish Date: `Aug 24, 2019 12:32 PM`
+{% endhint %}
+
 ## API Docs
 
 * Api Docs: [https://dbil.docs.apiary.io/](https://dbil.docs.apiary.io/)

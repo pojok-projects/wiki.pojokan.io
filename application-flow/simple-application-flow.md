@@ -6,7 +6,7 @@ description: Describe the target application flow from the platform's capability
 
 ## Platform's User Journey
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ### Step 1 - Visit Website
 

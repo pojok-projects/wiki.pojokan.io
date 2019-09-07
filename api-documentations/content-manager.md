@@ -4,6 +4,12 @@
 
 * [https://api.tutorialinaja.tech/conm/v1](https://api.tutorialinaja.tech/conm/v1)
 
+{% hint style="success" %}
+Status: `LIVE`
+
+First Publish Date: `Aug 27, 2019 3:33 AM`
+{% endhint %}
+
 ## API Docs
 
 * \(?\) TBC

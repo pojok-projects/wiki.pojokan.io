@@ -4,6 +4,12 @@
 
 * [https://api.tutorialinaja.tech/usem/v1](https://api.tutorialinaja.tech/usem/v1)
 
+{% hint style="warning" %}
+Status: `PENDING`
+
+First Publish Date: `(?) TBC`
+{% endhint %}
+
 ## API Docs
 
 * Api Docs: [https://upa43.docs.apiary.io/](https://upa43.docs.apiary.io/)

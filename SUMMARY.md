@@ -9,10 +9,11 @@
 
 ## API Documentations
 
-* [Category Manager](api-documentations/category-manager.md)
-* [Content Manager](api-documentations/content-manager.md)
 * [Database Interface Layer](api-documentations/database-interface-layer.md)
+* [Content Manager](api-documentations/content-manager.md)
+* [Category Manager](api-documentations/category-manager.md)
 * [User Manager](api-documentations/user-manager.md)
+* [Video Manager](api-documentations/video-manager.md)
 
 ## DevOps
 

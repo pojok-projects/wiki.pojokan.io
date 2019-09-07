@@ -2,7 +2,13 @@
 
 ## API END POINT
 
-* [https://api.tutorialinaja.tech/catm/v1](https://api.tutorialinaja.tech/catm/v1)
+* [https://api.tutorialinaja.tech/catm/v1](https://api.tutorialinaja.tech/catm/v1) 
+
+{% hint style="success" %}
+Status: `LIVE`
+
+First Publish Date: `Sep 6, 2019 3:29 AM`
+{% endhint %}
 
 ## API Docs
 
