@@ -8,10 +8,10 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 
 * [https://api.tutorialinaja.tech/vidm/v1/](https://api.tutorialinaja.tech/vidm/v1/)
 
-{% hint style="warning" %}
-Status: `PENDING`
+{% hint style="success" %}
+Status: `LIVE`
 
-First Publish Date: `(?) TBC`
+First Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 {% endhint %}
 
 ## API Docs
