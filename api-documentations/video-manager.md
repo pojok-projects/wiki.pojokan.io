@@ -16,7 +16,7 @@ First Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 
 ## API Docs
 
-* Api Docs: \(?\) TBC
+* Api Docs: [https://videomanager1.docs.apiary.io/](https://videomanager1.docs.apiary.io/)
 
 ## API Repository
 
