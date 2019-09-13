@@ -16,7 +16,7 @@ First Publish Date: `Sep 6, 2019 3:29 AM (AEST)`
 
 ## API Docs
 
-* Api Docs: [https://cm27.docs.apiary.io/](https://cm27.docs.apiary.io/)
+* \(?\) TBC
 
 ## API Repository
 

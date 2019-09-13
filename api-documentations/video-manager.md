@@ -16,7 +16,7 @@ First Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 
 ## API Docs
 
-* Api Docs: [https://videomanager1.docs.apiary.io/](https://videomanager1.docs.apiary.io/)
+* Api Docs: [https://tutorialinajavideomanager.docs.apiary.io/\#](https://tutorialinajavideomanager.docs.apiary.io/#)
 
 ## API Repository
 
@@ -28,13 +28,13 @@ Video Manager manages the video input and output process from and to the S3 Buck
 
 See Red highlight below for the scope of this repository:
 
-![Video Manager](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Table Structure End Points
 
-\(?\) TBC
+See API Docs
 
 ## Example screen shots of API invocations
 
-\(?\) TBC
+See API Docs
 

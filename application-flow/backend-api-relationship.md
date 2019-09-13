@@ -20,7 +20,7 @@ description: >-
 
 ## Step 2 - Watch Video
 
-![API requirements for Watch Video page](../.gitbook/assets/image%20%289%29.png)
+![API requirements for Watch Video page](../.gitbook/assets/image%20%2810%29.png)
 
 **Related APIs:**
 
@@ -46,7 +46,7 @@ description: >-
 
 ## Step 4 - Delight
 
-![API requirement for Content Upload](../.gitbook/assets/image%20%288%29.png)
+![API requirement for Content Upload](../.gitbook/assets/image%20%289%29.png)
 
 **Related APIs:**
 

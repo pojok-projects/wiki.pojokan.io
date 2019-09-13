@@ -6,7 +6,7 @@ description: Describe the target application flow from the platform's capability
 
 ## Platform's User Journey
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ### Step 1 - Visit Website
 
@@ -20,7 +20,7 @@ In this page, it is suggested for the user to have the following capabilities:
 
 ### Step 2 - Watch Video
 
-![Tutorialinaja.tech video detail page](../.gitbook/assets/image%20%287%29.png)
+![Tutorialinaja.tech video detail page](../.gitbook/assets/image%20%288%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
