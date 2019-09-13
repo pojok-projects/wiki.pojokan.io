@@ -1,12 +1,10 @@
 # Content Manager of Tutorial System
 
-## API END POINT
-
-- https://api.tutorialinaja.tech/conm/v1
+- [https://api.tutorialinaja.tech/conm/v1](https://api.tutorialinaja.tech/conm/v1)
 
 ## API Docs
 
-- (?) TBC
+- Api Docs: [https://videomanager1.docs.apiary.io/](https://videomanager1.docs.apiary.io/)
 
 ## API Repository
 
