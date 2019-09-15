@@ -14,6 +14,7 @@
 * [Category Manager](api-documentations/category-manager.md)
 * [User Manager](api-documentations/user-manager.md)
 * [Video Manager](api-documentations/video-manager.md)
+* [Video Uploader](api-documentations/video-uploader.md)
 
 ## DevOps
 
