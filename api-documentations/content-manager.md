@@ -16,7 +16,7 @@ First Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 
 ## API Docs
 
-* \(?\) TBC
+* [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
 
 ## API Repository
 
