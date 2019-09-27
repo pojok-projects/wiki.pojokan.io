@@ -20,7 +20,7 @@ First Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
 
 ## API Repository
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-video-manager](https://github.com/pojok-projects/tutorialsystem-video-manager)
+* Api Repository: [https://github.com/pojok-projects/tutorialsystem-action-manager](https://github.com/pojok-projects/tutorialsystem-action-manager)
 
 ## Description
 
