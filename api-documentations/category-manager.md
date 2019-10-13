@@ -16,7 +16,7 @@ First Publish Date: `Sep 6, 2019 3:29 AM (AEST)`
 
 ## API Docs
 
-* \(?\) TBC
+* Api Docs: [https://tutorialinajacategorymanager.docs.apiary.io/](https://tutorialinajacategorymanager.docs.apiary.io/)
 
 ## API Repository
 
