@@ -2,12 +2,11 @@
 description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 ---
 
-# Video Action
+# Video Stream
 
 ## API END POINT
 
 * \(?\) TBC
-
 
 ## API Docs
 
@@ -32,3 +31,4 @@ See API Docs
 ## Example screen shots of API invocations
 
 See API Docs
+

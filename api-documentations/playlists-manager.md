@@ -2,12 +2,17 @@
 description: 'Main Developer: Juni Yadi (https://github.com/JuniYadi)'
 ---
 
-# Video Action
+# Playlists Manager
 
 ## API END POINT
 
-* \(?\) TBC
+* [https://api.tutorialinaja.tech/pm/v1/](https://api.tutorialinaja.tech/pm/v1/)
 
+{% hint style="success" %}
+Status: `LIVE`
+
+First Publish Date: `Oct 13, 2019 5:52 PM (AEST)`
+{% endhint %}
 
 ## API Docs
 
@@ -23,7 +28,7 @@ Playlists Manager For List All of Video and List by Category.
 
 See Red highlight below for the scope of this repository:
 
-\(?\) TBC
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Table Structure End Points
 
@@ -32,3 +37,4 @@ See API Docs
 ## Example screen shots of API invocations
 
 See API Docs
+
