@@ -16,7 +16,7 @@ First Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 
 ## API Docs
 
-* [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
+* [https://tutorialinajacontentmanager.docs.apiary.io/](https://tutorialinajacontentmanager.docs.apiary.io/)
 
 ## API Repository
 
