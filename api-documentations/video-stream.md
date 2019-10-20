@@ -18,6 +18,12 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 * Language: JavaScript
 * Framework: node.js Express 
 
+## Infrastructure
+
+* CodePipeline: \(?\) TBC
+* CI/CD CloudFormation: \(?\) TBC
+* Solution CloudFormation: \(?\) TBC
+
 ## Description
 
 Streaming video From S3 Bucket.

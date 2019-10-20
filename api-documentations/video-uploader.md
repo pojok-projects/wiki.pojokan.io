@@ -24,6 +24,12 @@ First Publish Date: `Sep 14, 2019 9:31 AM (AEST)`
 * Language: JavaScript
 * Framework: node.js Express 
 
+## Infrastructure
+
+* CodePipeline: [tutorial-system-vidu-master-cicd-pl](https://ap-southeast-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/tutorial-system-vidu-master-cicd-pl/view?region=ap-southeast-1)
+* CI/CD CloudFormation: [tutorial-system-vidu-master-cicd-pipeline-cf](https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/stackinfo?filteringText=vidu&filteringStatus=active&viewNested=true&hideStacks=false&stackId=arn%3Aaws%3Acloudformation%3Aap-southeast-1%3A706415835325%3Astack%2Ftutorial-system-vidu-master-cicd-pipeline-cf%2F79ab8ce0-d67e-11e9-8917-02c6c7bea9ac)
+* Solution CloudFormation: [tutorial-system-vidu-master-provisioning-cf](https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/stackinfo?filteringText=vidu&filteringStatus=active&viewNested=true&hideStacks=false&stackId=arn%3Aaws%3Acloudformation%3Aap-southeast-1%3A706415835325%3Astack%2Ftutorial-system-vidu-master-provisioning-cf%2F157cec90-d67f-11e9-9d8f-02d60855aea4)
+
 ## Description
 
 Video Uploader upload the video into S3 bucket \(media.tutorialinaja.tech\) for future reference. Upon successful upload, the API will return the video upload status includes its ETag.

@@ -24,6 +24,12 @@ First Publish Date: `Sep 8, 2019 2:21 AM (AEST)`
 * Language: PHP
 * Framework: Laravel 
 
+## Infrastructure
+
+* CodePipeline: [tutorial-system-userm-master-cicd-pl](https://ap-southeast-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/tutorial-system-userm-master-cicd-pl/view?region=ap-southeast-1)
+* CI/CD CloudFormation: [tutorial-system-userm-master-cicd-pipeline-cf](https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/stackinfo?filteringText=us&filteringStatus=active&viewNested=true&hideStacks=false&stackId=arn%3Aaws%3Acloudformation%3Aap-southeast-1%3A706415835325%3Astack%2Ftutorial-system-userm-master-cicd-pipeline-cf%2F5f935060-d18b-11e9-9cf2-0200beb62082)
+* Solution CloudFormation: [tutorial-system-userm-master-provisioning-cf](https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/stackinfo?filteringText=us&filteringStatus=active&viewNested=true&hideStacks=false&stackId=arn%3Aaws%3Acloudformation%3Aap-southeast-1%3A706415835325%3Astack%2Ftutorial-system-userm-master-provisioning-cf%2F6b6baa10-d18e-11e9-9d5a-0a996106fc92)
+
 ## Description
 
 User Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
