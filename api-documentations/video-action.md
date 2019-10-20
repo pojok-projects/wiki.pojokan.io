@@ -18,9 +18,11 @@ First Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
 
 * Api Docs: [https://tutorialinajavideoaction.docs.apiary.io/](https://tutorialinajavideoaction.docs.apiary.io/)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-action-manager](https://github.com/pojok-projects/tutorialsystem-action-manager)
+* Language: PHP
+* Framework: Laravel 
 
 ## Description
 

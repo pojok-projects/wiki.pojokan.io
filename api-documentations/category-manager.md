@@ -18,9 +18,11 @@ First Publish Date: `Sep 6, 2019 3:29 AM (AEST)`
 
 * Api Docs: [https://tutorialinajacategorymanager.docs.apiary.io/](https://tutorialinajacategorymanager.docs.apiary.io/)
 
-## API Repository
+## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-category-manager](https://github.com/pojok-projects/tutorialsystem-category-manager)
+* Api Repository: [https://github.com/pojok-projects/tutorialsystem-catm](https://github.com/pojok-projects/tutorialsystem-catm)
+* Language: JavaScript
+* Framework: node.js Express 
 
 ## Description
 

@@ -18,9 +18,11 @@ First Publish Date: `Oct 13, 2019 5:52 PM (AEST)`
 
 * Api Docs: [https://tutorialinajaplaylistsmanager.docs.apiary.io/](https://tutorialinajaplaylistsmanager.docs.apiary.io/)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-playlist-manager](https://github.com/pojok-projects/tutorialsystem-playlist-manager)
+* Language: JavaScript
+* Framework: node.js Express 
 
 ## Description
 

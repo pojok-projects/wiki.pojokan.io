@@ -24,9 +24,11 @@ First Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
 * [x] [Sprint 2](https://dbdiagram.io/d/5d2edb4fced98361d6dcbc9f)
 * [ ] [Sprint 2 \(Refactoring\)](https://dbdiagram.io/d/5d60b65bced98361d6dddf7b) \[We Are Here Now\]
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-database-interface-layer](https://github.com/pojok-projects/tutorialsystem-database-interface-layer)
+* Language: PHP
+* Framework: Laravel 
 
 ## Description
 

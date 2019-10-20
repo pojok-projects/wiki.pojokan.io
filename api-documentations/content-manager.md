@@ -18,9 +18,11 @@ First Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 
 * [https://tutorialinajacontentmanager.docs.apiary.io/](https://tutorialinajacontentmanager.docs.apiary.io/)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
+* Language: PHP
+* Framework: Laravel 
 
 ## Description
 

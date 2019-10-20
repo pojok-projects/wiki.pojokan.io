@@ -12,9 +12,11 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 
 * Api Docs: [https://tutorialinajavideostream.docs.apiary.io/](https://tutorialinajavideostream.docs.apiary.io/)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-stream-manager](https://github.com/pojok-projects/tutorialsystem-stream-manager)
+* Language: JavaScript
+* Framework: node.js Express 
 
 ## Description
 

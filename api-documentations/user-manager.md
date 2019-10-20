@@ -18,9 +18,11 @@ First Publish Date: `Sep 8, 2019 2:21 AM (AEST)`
 
 * Api Docs: [https://tutorialsystemusermanager.docs.apiary.io/\#](https://tutorialsystemusermanager.docs.apiary.io/#)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-user-manager](https://github.com/pojok-projects/tutorialsystem-user-manager)
+* Language: PHP
+* Framework: Laravel 
 
 ## Description
 

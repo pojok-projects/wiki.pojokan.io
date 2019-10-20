@@ -18,9 +18,11 @@ First Publish Date: `Sep 14, 2019 9:31 AM (AEST)`
 
 * Api Docs: [https://tutorialinajavideouploader.docs.apiary.io/\#](https://tutorialinajavideouploader.docs.apiary.io/#)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-video-uploader](https://github.com/pojok-projects/tutorialsystem-video-uploader)
+* Language: JavaScript
+* Framework: node.js Express 
 
 ## Description
 

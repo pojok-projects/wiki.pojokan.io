@@ -18,9 +18,11 @@ First Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 
 * Api Docs: [https://tutorialinajavideomanager.docs.apiary.io/\#](https://tutorialinajavideomanager.docs.apiary.io/#)
 
-## API Repository
+## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-video-manager](https://github.com/pojok-projects/tutorialsystem-video-manager)
+* Language: PHP
+* Framework: Laravel 
 
 ## Description
 
