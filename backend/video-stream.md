@@ -2,7 +2,7 @@
 description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 ---
 
-# TVideo Stream
+# Video Stream
 
 ## API END POINT
 

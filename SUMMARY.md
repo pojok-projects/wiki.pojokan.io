@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Manage GitHub untuk Team Member](manage-github-untuk-team-member.md)
+
+## DevOps Documentations <a id="devops"></a>
+
+* [Infrastructure as a Code](devops/iaac-backend.md)
 
 ## TS Backend Documentations <a id="backend"></a>
 
@@ -11,15 +16,10 @@
 * [Playlists Manager](backend/playlists-manager.md)
 * [User Manager](backend/user-manager.md)
 * [Video Manager](backend/video-manager.md)
-* [TVideo Stream](backend/video-stream.md)
+* [Video Stream](backend/video-stream.md)
 * [Video Uploader](backend/video-uploader.md)
 
 ## TS Frontend Documentations <a id="frontend"></a>
 
 * [Frontend Implementation](frontend/simple-application-flow.md)
-
-## DevOps Documentations <a id="devops"></a>
-
-* [Infrastructure as a Code](devops/iaac-backend.md)
-* [Manage GitHub untuk Team Member](devops/manage-github-untuk-team-member.md)
 
