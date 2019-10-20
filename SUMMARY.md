@@ -21,4 +21,5 @@
 ## DevOps Documentations <a id="devops"></a>
 
 * [Infrastructure as a Code](devops/iaac-backend.md)
+* [Manage GitHub untuk Team Member](devops/manage-github-untuk-team-member.md)
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Main Developers: Ikhsan Rahman (https://github.com/ikhsanrahman), Andrel
+  Karunia Sitanggang (https://github.com/gaweki)
+---
+
 # Infrastructure as a Code
 
 ## Description
