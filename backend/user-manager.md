@@ -36,7 +36,7 @@ User Manager manages the input and output processes with simple validation from 
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ## API Paths
 

@@ -31,7 +31,7 @@ Publish Date: `Aug 31, 2019 10:30 AM (AEST)`
 
 ## Platform's User Journey
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ## Frontend Pages
 
@@ -57,7 +57,7 @@ On this page, it is suggested for the user to have the following capabilities:
 
 ### Step 3 - Watch Video
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
