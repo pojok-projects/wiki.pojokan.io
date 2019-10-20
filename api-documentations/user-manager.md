@@ -34,9 +34,9 @@ Publish Date: `Sep 8, 2019 2:21 AM (AEST)`
 
 User Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
 
-See Red highlight below for the scope of this repository.
+See Red highlight below for the scope of this service:
 
-![User Management](../.gitbook/assets/user-management.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## API Paths
 

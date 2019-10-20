@@ -34,9 +34,9 @@ Publish Date: `Sep 6, 2019 3:29 AM (AEST)`
 
 Category Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
 
-See Red highlight below for the scope of this repository.
+See Red highlight below for the scope of this service:
 
-![Category Manager Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-category-manager/master/images/Content_Manager_highlight.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ## Table Structure End Points
 

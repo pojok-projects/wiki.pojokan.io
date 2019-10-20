@@ -38,7 +38,7 @@ Note: Due to the limitation of the API gateway \(see: [https://docs.aws.amazon.c
 
 See below process flow of this API and its relationship with other API:
 
-![Video Upload Relationship with other APIs](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Table Structure End Points
 

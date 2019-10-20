@@ -34,9 +34,9 @@ Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
 
 Action Manager for upload video, push metadata to content metadata, save video and download video from s3
 
-See Red highlight below for the scope of this repository:
+See Red highlight below for the scope of this service:
 
-\(?\) TBC
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ## Table Structure End Points
 

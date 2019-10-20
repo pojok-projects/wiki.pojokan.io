@@ -34,9 +34,9 @@ Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 
 Content Manager manages the input and output processes with simple validation from the frontend to the database interface layer section.
 
-See Red highlight below for the scope of this repository.
+See Red highlight below for the scope of this service:
 
-![Content Manager Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-content-manager/master/images/Content_Manager_highlight.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Table Structure End Points
 

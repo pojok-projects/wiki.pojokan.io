@@ -34,9 +34,9 @@ Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 
 Video Manager manages the video input and output process from and to the S3 Bucket for streaming mechanism.
 
-See Red highlight below for the scope of this repository:
+See Red highlight below for the scope of this service: 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ## Table Structure End Points
 

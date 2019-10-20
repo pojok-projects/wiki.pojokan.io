@@ -34,9 +34,9 @@ Publish Date: `(?) TBC`
 
 Streaming video From S3 Bucket.
 
-See Red highlight below for the scope of this repository:
+See Red highlight below for the scope of this service:
 
-\(?\) TBC
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## Table Structure End Points
 

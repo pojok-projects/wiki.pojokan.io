@@ -6,7 +6,7 @@ description: Describe the target application flow from the platform's capability
 
 ## Platform's User Journey
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ### Step 1 - Visit Website
 
@@ -20,7 +20,7 @@ In this page, it is suggested for the user to have the following capabilities:
 
 ### Step 2 - Watch Video
 
-![Tutorialinaja.tech video detail page](../.gitbook/assets/image%20%2810%29.png)
+![Tutorialinaja.tech video detail page](../.gitbook/assets/image%20%2816%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
@@ -30,7 +30,7 @@ On this page, it is suggested for the user to have the following capabilities:
 
 ### Step 3 - Learning
 
-![Example of the video playlist from https://jumprope.com](../.gitbook/assets/image%20%283%29.png)
+![Example of the video playlist from https://jumprope.com](../.gitbook/assets/image%20%286%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
@@ -40,7 +40,7 @@ On this page, it is suggested for the user to have the following capabilities:
 
 ### Step 4 - Delight
 
-![How to put a video on YouTube from the phone](../.gitbook/assets/image%20%284%29.png)
+![How to put a video on YouTube from the phone](../.gitbook/assets/image%20%288%29.png)
 
 Once the user experience the benefit of the platform he/she might have a better idea to share similar videos that can be easily uploaded or recorded throughout the platform:
 

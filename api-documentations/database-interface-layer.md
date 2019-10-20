@@ -45,9 +45,9 @@ Database Interface Layer is governing input and output process of database commu
 
 As the result of this service, the Input and Output query into content-category and content-metadata tables will be provided as rest APIs.
 
-See Red highlight below for the scope of this repository.
+See Red highlight below for the scope of this service.
 
-![Database Interface Layer Highlight](https://raw.githubusercontent.com/pojok-projects/tutorialsystem-database-interface-layer/master/images/Content_Manager_highlight.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Table Structure API End Points
 
