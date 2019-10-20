@@ -1,4 +1,4 @@
-# Backend Infrastructure as a Code
+# Infrastructure as a Code
 
 ## Description
 

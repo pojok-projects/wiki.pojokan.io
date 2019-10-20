@@ -2,24 +2,23 @@
 
 * [Welcome](README.md)
 
-## Application Flow
+## Backend Documentations <a id="backend"></a>
 
-* [Simple Application Flow](application-flow/simple-application-flow.md)
-* [Backend API Relationship](application-flow/backend-api-relationship.md)
+* [Action Manager](backend/video-action.md)
+* [Database Interface Layer](backend/database-interface-layer.md)
+* [Category Manager](backend/category-manager.md)
+* [Content Manager](backend/content-manager.md)
+* [Playlists Manager](backend/playlists-manager.md)
+* [User Manager](backend/user-manager.md)
+* [Video Manager](backend/video-manager.md)
+* [Video Stream](backend/video-stream.md)
+* [Video Uploader](backend/video-uploader.md)
 
-## API Documentations
+## Frontend Documentations <a id="frontend"></a>
 
-* [Action Manager](api-documentations/video-action.md)
-* [Database Interface Layer](api-documentations/database-interface-layer.md)
-* [Category Manager](api-documentations/category-manager.md)
-* [Content Manager](api-documentations/content-manager.md)
-* [Playlists Manager](api-documentations/playlists-manager.md)
-* [User Manager](api-documentations/user-manager.md)
-* [Video Manager](api-documentations/video-manager.md)
-* [Video Stream](api-documentations/video-stream.md)
-* [Video Uploader](api-documentations/video-uploader.md)
+* [Frontend Implementation](frontend/simple-application-flow.md)
 
-## DevOps
+## DevOps Documentations <a id="devops"></a>
 
-* [Backend Infrastructure as a Code](devops/iaac-backend.md)
+* [Infrastructure as a Code](devops/iaac-backend.md)
 

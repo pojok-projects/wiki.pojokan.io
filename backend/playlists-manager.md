@@ -20,7 +20,7 @@ Publish Date: `Oct 13, 2019 5:52 PM (AEST)`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-playlist-manager](https://github.com/pojok-projects/tutorialsystem-playlist-manager)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-playlist-manager](https://github.com/pojok-projects/tutorialsystem-playlist-manager)
 * Language: JavaScript
 * Framework: node.js Express 
 
@@ -36,7 +36,7 @@ Playlists Manager For List All of Video and List by Category.
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Table Structure End Points
 

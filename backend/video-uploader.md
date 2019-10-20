@@ -21,7 +21,7 @@ Publish Date: `Sep 14, 2019 9:31 AM (AEST)`
 ## Codes
 
 * Api Repository: [https://github.com/pojok-projects/tutorialsystem-video-uploader](https://github.com/pojok-projects/tutorialsystem-video-uploader)
-* Language: JavaScript
+* Language: TypeScript
 * Framework: node.js Express 
 
 ## Infrastructure
@@ -38,7 +38,7 @@ Note: Due to the limitation of the API gateway \(see: [https://docs.aws.amazon.c
 
 See below process flow of this API and its relationship with other API:
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Table Structure End Points
 

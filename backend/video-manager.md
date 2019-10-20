@@ -20,7 +20,7 @@ Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-video-manager](https://github.com/pojok-projects/tutorialsystem-video-manager)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-video-manager](https://github.com/pojok-projects/tutorialsystem-video-manager)
 * Language: PHP
 * Framework: Laravel 
 
@@ -36,7 +36,7 @@ Video Manager manages the video input and output process from and to the S3 Buck
 
 See Red highlight below for the scope of this service: 
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ## Table Structure End Points
 

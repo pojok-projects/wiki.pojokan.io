@@ -20,7 +20,7 @@ Publish Date: `(?) TBC`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-stream-manager](https://github.com/pojok-projects/tutorialsystem-stream-manager)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-stream-manager](https://github.com/pojok-projects/tutorialsystem-stream-manager)
 * Language: JavaScript
 * Framework: node.js Express 
 
@@ -36,7 +36,7 @@ Streaming video From S3 Bucket.
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ## Table Structure End Points
 

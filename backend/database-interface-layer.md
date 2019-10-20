@@ -26,7 +26,7 @@ Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-database-interface-layer](https://github.com/pojok-projects/tutorialsystem-database-interface-layer)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-database-interface-layer](https://github.com/pojok-projects/tutorialsystem-database-interface-layer)
 * Language: PHP
 * Framework: Laravel 
 
@@ -47,7 +47,7 @@ As the result of this service, the Input and Output query into content-category 
 
 See Red highlight below for the scope of this service.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Table Structure API End Points
 

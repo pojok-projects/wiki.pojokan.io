@@ -20,7 +20,7 @@ Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-action-manager](https://github.com/pojok-projects/tutorialsystem-action-manager)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-action-manager](https://github.com/pojok-projects/tutorialsystem-action-manager)
 * Language: PHP
 * Framework: Laravel 
 
@@ -36,7 +36,7 @@ Action Manager for upload video, push metadata to content metadata, save video a
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ## Table Structure End Points
 

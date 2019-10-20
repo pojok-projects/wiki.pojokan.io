@@ -20,7 +20,7 @@ Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 
 ## Codes
 
-* Api Repository: [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-content-manager](https://github.com/pojok-projects/tutorialsystem-content-manager)
 * Language: PHP
 * Framework: Laravel 
 
@@ -36,7 +36,7 @@ Content Manager manages the input and output processes with simple validation fr
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## Table Structure End Points
 
