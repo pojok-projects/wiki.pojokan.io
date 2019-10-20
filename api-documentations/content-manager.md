@@ -40,9 +40,9 @@ See Red highlight below for the scope of this service:
 
 ## Table Structure End Points
 
-\(?\) TBC
+See API Docs
 
 ## Example screen shots of API invocations
 
-\(?\) TBC
+See API Docs
 
