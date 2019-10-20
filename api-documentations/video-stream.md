@@ -8,6 +8,12 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 
 * \(?\) TBC
 
+{% hint style="warning" %}
+Status: `PENDING`
+
+Publish Date: `(?) TBC`
+{% endhint %}
+
 ## API Docs
 
 * Api Docs: [https://tutorialinajavideostream.docs.apiary.io/](https://tutorialinajavideostream.docs.apiary.io/)

@@ -11,12 +11,12 @@ description: 'Main Developer: Juni Yadi (https://github.com/JuniYadi)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
+Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
 {% endhint %}
 
 ## API Docs
 
-* Api Docs: [https://tutorialinajadatabaseinterfacelayer.docs.apiary.io/\#](https://tutorialinajadatabaseinterfacelayer.docs.apiary.io/#)
+* Api Docs: [https://tsdbil.docs.apiary.io/\#](https://tsdbil.docs.apiary.io/#)
 
 ## Entity Relationship Diagram
 

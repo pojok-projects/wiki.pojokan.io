@@ -11,12 +11,12 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
+Publish Date: `Sep 9, 2019 1:31 AM (AEST)`
 {% endhint %}
 
 ## API Docs
 
-* Api Docs: [https://tutorialinajavideomanager.docs.apiary.io/\#](https://tutorialinajavideomanager.docs.apiary.io/#)
+* Api Docs: [https://tsvidm.docs.apiary.io/\#](https://tsvidm.docs.apiary.io/#)
 
 ## Codes
 

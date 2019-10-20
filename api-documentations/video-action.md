@@ -11,12 +11,12 @@ description: 'Main Developer: Vibi Primantono (https://github.com/hapehatelo)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
+Publish Date: `Sep 27, 2019 17:12 PM (WIB)`
 {% endhint %}
 
 ## API Docs
 
-* Api Docs: [https://tutorialinajavideoaction.docs.apiary.io/](https://tutorialinajavideoaction.docs.apiary.io/)
+* Api Docs: [https://tsvam.docs.apiary.io/\#](https://tsvam.docs.apiary.io/#)
 
 ## Codes
 

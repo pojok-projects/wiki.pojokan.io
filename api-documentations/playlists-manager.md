@@ -11,12 +11,12 @@ description: 'Main Developer: Juni Yadi (https://github.com/JuniYadi)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Oct 13, 2019 5:52 PM (AEST)`
+Publish Date: `Oct 13, 2019 5:52 PM (AEST)`
 {% endhint %}
 
 ## API Docs
 
-* Api Docs: [https://tutorialinajaplaylistsmanager.docs.apiary.io/](https://tutorialinajaplaylistsmanager.docs.apiary.io/)
+* Api Docs: [https://tspm.docs.apiary.io/\#](https://tspm.docs.apiary.io/#)
 
 ## Codes
 

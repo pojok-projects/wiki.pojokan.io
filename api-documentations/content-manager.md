@@ -11,12 +11,12 @@ description: 'Main Developer: Aldy Prastyo (https://github.com/dipras)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
+Publish Date: `Aug 27, 2019 3:33 AM (AEST)`
 {% endhint %}
 
 ## API Docs
 
-* [https://tutorialinajacontentmanager.docs.apiary.io/](https://tutorialinajacontentmanager.docs.apiary.io/)
+* [https://tsconm.docs.apiary.io/\#](https://tsconm.docs.apiary.io/#)
 
 ## Codes
 

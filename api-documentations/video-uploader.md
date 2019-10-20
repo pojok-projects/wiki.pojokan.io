@@ -11,12 +11,12 @@ description: 'Main Developer: Iman Suherman (https://github.com/iman-suherman)'
 {% hint style="success" %}
 Status: `LIVE`
 
-First Publish Date: `Sep 14, 2019 9:31 AM (AEST)`
+Publish Date: `Sep 14, 2019 9:31 AM (AEST)`
 {% endhint %}
 
 ## API Docs
 
-* Api Docs: [https://tutorialinajavideouploader.docs.apiary.io/\#](https://tutorialinajavideouploader.docs.apiary.io/#)
+* Api Docs: [https://tsvidu.docs.apiary.io/\#](https://tsvidu.docs.apiary.io/#)
 
 ## Codes
 
