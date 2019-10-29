@@ -26,7 +26,7 @@ Publish Date: `Aug 24, 2019 12:32 PM (AEST)`
 
 ## Codes
 
-* Code Repository: [https://github.com/pojok-projects/tutorialsystem-database-interface-layer](https://github.com/pojok-projects/tutorialsystem-database-interface-layer)
+* Code Repository: [https://github.com/pojok-projects/tutorialsystem-dbil](https://github.com/pojok-projects/tutorialsystem-dbil)
 * Language: JavaScript
 * Framework: node.js Express 
 
