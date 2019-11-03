@@ -31,13 +31,13 @@ Publish Date: `Aug 31, 2019 10:30 AM (AEST)`
 
 ## Platform's User Journey
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 ## Frontend Pages
 
 ### Step 1 - Visit Website
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 In this page, it is suggested for the user to have the following capabilities:
 
@@ -47,7 +47,7 @@ In this page, it is suggested for the user to have the following capabilities:
 
 ### Step 2 - Learning
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
@@ -57,7 +57,7 @@ On this page, it is suggested for the user to have the following capabilities:
 
 ### Step 3 - Watch Video
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 On this page, it is suggested for the user to have the following capabilities:
 
@@ -67,7 +67,7 @@ On this page, it is suggested for the user to have the following capabilities:
 
 ### Step 4 - Delight
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Once the user experience the benefit of the platform he/she might have a better idea to share similar videos that can be easily uploaded or recorded throughout the platform:
 
