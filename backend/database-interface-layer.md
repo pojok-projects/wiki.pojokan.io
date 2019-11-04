@@ -47,7 +47,7 @@ As the result of this service, the Input and Output query into content-category 
 
 See Red highlight below for the scope of this service.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## Table Structure API End Points
 

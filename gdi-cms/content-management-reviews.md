@@ -46,7 +46,7 @@ Review Results:
 
 ### enduro.js
 
-![Screen shot from mobile device](../.gitbook/assets/image%20%2834%29.png)
+![Screen shot from mobile device](../.gitbook/assets/image%20%2835%29.png)
 
 Kelebihan:
 
@@ -63,13 +63,12 @@ Kelemahan:
 
 ### ApostropheCMS
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2849%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2850%29.png)
 
 Kelebihan:
 
 * Fiturnya bisa drag drop widgetnya
 * Backend nodejs \(express\)
-* Frontend menggunakan nuckjs yang kurang popular
 * Database menggunakan mongoDB
 
 Kelemahan:
@@ -77,11 +76,11 @@ Kelemahan:
 * Starting coding yang tidak mudah diikuti \(harus pergi ke source code utk menambah widget\)
 * Harus pelajari widgetnya dahulu sehingga proses development bisa terhambat 
 * Setiap tambahan feature dalam CMS harus diawali dengan edit codingan \(buat user managed feature seperti WordPress misalnya\)
-* Teknologi yang digunakan tidak popular
+* Frontend menggunakan nuckjs yang kurang popular
 
 ### pencilblue
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2823%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2824%29.png)
 
 Kelemahan:
 
@@ -110,43 +109,43 @@ Kelebihan:
 
 * Dapat membuat content baru secara otomatis:
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 * Memiliki role based permission untuk mengatur akses user dan API:
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 * Default api yang secure karena tidak bisa akses public, sehingga harus set dari permission =&gt; public:
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 * Memiliki support untuk GraphQL API dan Playground:
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 * API Documentation yang dibuat secara otomatis menggunakan Swagger:
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 * Random table reference ID yang auto generate menggunakan unique identifier untuk memastikan record yang dihasilkan akan selalu secure:
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 * Content thumbnail yang secara otomatis di-generate oleh system pada saat upload:
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 * Menggunakan table referensi yang berbeda untuk uploaded contents:
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Kelemahan:
 
 * Beberapa dependency yang digunakan memiliki resiko vulnerability issue yang harus di antisipasi dengan patch versi terbaru:
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ### Laravel Admin
 
@@ -170,7 +169,7 @@ Kelemahan:
 * Laravel Admin masih menggunakan base framework Laravel 5.5 \(release tahun 2017 dan support hanya sampai 30 Agustus 2020 saja\) yang cukup tertinggal dari Long Term Support versi laravel terbaru yaitu versi 6.0
 * Walaupun support page dapat di translate ke bahasa Inggris namun main community heavily menggunakan Chinese language yang akan menjadi kendala di kemudian hari dalam hal troubleshooting:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 * Umur community yang masih muda ini \(belum mature\) sehingga masih perlu tambahan waktu agar memiliki feature yang sebanding dengan CMS lainnya
 
@@ -180,10 +179,73 @@ Kelemahan:
 
 | Factors | Scores |
 | :--- | :--- |
-| Simplicity |  |
-| NoSQL database support |  |
-| Security |  |
-| Memory and CPU footprints |  |
-| Robustness |  |
-| Scalability |  |
+| Simplicity | **✮✮✮✮✮** |
+| NoSQL database support | **✮** |
+| Security | **✮** |
+| Memory and CPU footprints | **✮✮✮** |
+| Robustness | **✮✮✮** |
+| Scalability | **✮✮✮** |
+| **Total Score** | 16 |
+
+### ApostropheCMS
+
+| Factors | Scores |
+| :--- | :--- |
+| Simplicity | **✮** |
+| NoSQL database support | **✮✮✮✮✮** |
+| Security | **✮✮✮** |
+| Memory and CPU footprints | **✮✮✮** |
+| Robustness | **✮✮✮** |
+| Scalability | **✮** |
+| **Total Score** | 17 |
+
+### pencilblue
+
+| Factors | Scores |
+| :--- | :--- |
+| Simplicity | **✮** |
+| NoSQL database support | **✮** |
+| Security | **✮** |
+| Memory and CPU footprints | **✮✮✮** |
+| Robustness | **✮✮✮** |
+| Scalability | **✮** |
+| **Total Score** | 10 |
+
+### Strapi
+
+| Factors | Scores |
+| :--- | :--- |
+| Simplicity | **✮✮✮** |
+| NoSQL database support | **✮✮✮✮✮** |
+| Security | **✮✮** |
+| Memory and CPU footprints | **✮✮✮** |
+| Robustness | **✮✮✮** |
+| Scalability | **✮✮✮** |
+| **Total Score** | 19 |
+
+### Laravel-admin
+
+| Factors | Scores |
+| :--- | :--- |
+| Simplicity | **✮✮✮✮✮** |
+| NoSQL database support | **✮** |
+| Security | **✮✮** |
+| Memory and CPU footprints | **✮✮** |
+| Robustness | **✮✮✮** |
+| Scalability | **✮✮✮** |
+| **Total Score** | 18 |
+
+## Final Score Comparison
+
+| CMS Name | Scores |
+| :--- | :--- |
+| Strapi | **19** |
+| Laravel-admin | **18** |
+| ApostropheCMS | **17** |
+| enduro.js | **16** |
+| pencilblue | **10** |
+
+## Conclusion
+
+Dari hasil score diatas Strapi unggul tipis dibandingkan dengan Laravel-admin satu point saja. Dari sisi code simplicity, Laravel-admin lebih unggul karena memiliki teknologi yang umum digunakan di pasaran sehingga process development jadi cepat dan mudah. Namun dari sisi database support, Laravel-admin masih belum mendukung NoSQL database. Sedangkan di sisi lain Stapi selain memiliki kelebihan support NoSQL mongoDB database, Strapi juga dibangun di atas node.js framework yang memiliki memory serta CPU footprints yang lebih kecil dibanding Laravel-admin yang menggunakan PHP.  
 
