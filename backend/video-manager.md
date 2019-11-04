@@ -36,7 +36,7 @@ Video Manager manages the video input and output process from and to the S3 Buck
 
 See Red highlight below for the scope of this service: 
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 ## Table Structure End Points
 

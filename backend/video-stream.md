@@ -36,7 +36,7 @@ Streaming video From S3 Bucket.
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ## Table Structure End Points
 

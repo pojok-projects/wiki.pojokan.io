@@ -36,7 +36,7 @@ Content Manager manages the input and output processes with simple validation fr
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Table Structure End Points
 
