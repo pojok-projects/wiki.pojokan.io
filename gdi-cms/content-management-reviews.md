@@ -46,7 +46,7 @@ Review Results:
 
 ### enduro.js
 
-![Screen shot from mobile device](../.gitbook/assets/image%20%2840%29.png)
+![Screen shot from mobile device](../.gitbook/assets/image%20%2841%29.png)
 
 Kelebihan:
 
@@ -63,7 +63,7 @@ Kelemahan:
 
 ### ApostropheCMS
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2856%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2857%29.png)
 
 Kelebihan:
 
@@ -80,7 +80,7 @@ Kelemahan:
 
 ### pencilblue
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2827%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2828%29.png)
 
 Kelemahan:
 
@@ -97,55 +97,55 @@ Kelebihan:
 
 * Flexible dalam database, dapat menggunakan sqllite \(file based storage\) maupun NoSQL database:
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 * Memiliki build-in connector ke MongoDB:
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 * Struktur database strapi menggunakan NoSQL dengan object storage dan un-normalise data structure di MongoDB:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 * Dapat membuat content baru secara otomatis:
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 * Memiliki role based permission untuk mengatur akses user dan API:
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 * Default api yang secure karena tidak bisa akses public, sehingga harus set dari permission =&gt; public:
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 * Memiliki support untuk GraphQL API dan Playground:
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 * API Documentation yang dibuat secara otomatis menggunakan Swagger:
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 * Random table reference ID yang auto generate menggunakan unique identifier untuk memastikan record yang dihasilkan akan selalu secure:
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 * Content thumbnail yang secara otomatis di-generate oleh system pada saat upload:
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 * Menggunakan table referensi yang berbeda untuk uploaded contents:
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 Kelemahan:
 
 * Beberapa dependency yang digunakan memiliki resiko vulnerability issue yang harus di antisipasi dengan patch versi terbaru:
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ### Laravel Admin
 
@@ -153,7 +153,7 @@ Kelebihan:
 
 * Teknologi yang digunakan umum di pasaran sehingga dapat meningkatkan kecepatan process development:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 * Laravel admin memiliki tampilan yang mirip dengan package [https://github.com/jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE), hanya perbedaannya adalah Laravel Admin memiliki feature content management system sedangkan Laravel-AdminLTE hanya merupakan admin template
 * Laravel-admin memiliki support forms yang banyak dan system input dari 1 table ke table lain serta table relational yang otomatis diatur langsung dari code
@@ -169,7 +169,7 @@ Kelemahan:
 * Laravel Admin masih menggunakan base framework Laravel 5.5 \(release tahun 2017 dan support hanya sampai 30 Agustus 2020 saja\) yang cukup tertinggal dari Long Term Support versi laravel terbaru yaitu versi 6.0
 * Walaupun support page dapat di translate ke bahasa Inggris namun main community heavily menggunakan Chinese language yang akan menjadi kendala di kemudian hari dalam hal troubleshooting:
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 * Umur community yang masih muda ini \(belum mature\) sehingga masih perlu tambahan waktu agar memiliki feature yang sebanding dengan CMS lainnya
 

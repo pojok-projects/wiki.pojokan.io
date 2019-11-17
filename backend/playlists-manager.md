@@ -36,7 +36,7 @@ Playlists Manager For List All of Video and List by Category.
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Table Structure End Points
 

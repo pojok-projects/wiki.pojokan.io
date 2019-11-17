@@ -36,7 +36,7 @@ Action Manager for upload video, push metadata to content metadata, save video a
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 ## Table Structure End Points
 

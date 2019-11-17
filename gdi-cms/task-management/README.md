@@ -16,6 +16,8 @@ Link: [https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi](https
 Status: Development Completed
 {% endhint %}
 
+{% page-ref page="setup-aws-codepipeline-for-strapi.md" %}
+
 {% hint style="info" %}
 Task: Finalisasi Database Phase 1  
 Link: [https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1](https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1)  
