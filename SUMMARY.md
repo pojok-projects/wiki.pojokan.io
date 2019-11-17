@@ -26,4 +26,6 @@
 ## GDI CMS
 
 * [Content Management Reviews](gdi-cms/content-management-reviews.md)
+* [Task Management](gdi-cms/task-management/README.md)
+  * [Setup AWS CodePipeline for Strapi](gdi-cms/task-management/setup-aws-codepipeline-for-strapi.md)
 

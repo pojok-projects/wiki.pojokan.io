@@ -46,7 +46,7 @@ Review Results:
 
 ### enduro.js
 
-![Screen shot from mobile device](../.gitbook/assets/image%20%2835%29.png)
+![Screen shot from mobile device](../.gitbook/assets/image%20%2840%29.png)
 
 Kelebihan:
 
@@ -63,7 +63,7 @@ Kelemahan:
 
 ### ApostropheCMS
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2850%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2856%29.png)
 
 Kelebihan:
 
@@ -80,7 +80,7 @@ Kelemahan:
 
 ### pencilblue
 
-![Screen shot from desktop device](../.gitbook/assets/image%20%2824%29.png)
+![Screen shot from desktop device](../.gitbook/assets/image%20%2827%29.png)
 
 Kelemahan:
 
@@ -109,43 +109,43 @@ Kelebihan:
 
 * Dapat membuat content baru secara otomatis:
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 * Memiliki role based permission untuk mengatur akses user dan API:
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 * Default api yang secure karena tidak bisa akses public, sehingga harus set dari permission =&gt; public:
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 * Memiliki support untuk GraphQL API dan Playground:
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 * API Documentation yang dibuat secara otomatis menggunakan Swagger:
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 * Random table reference ID yang auto generate menggunakan unique identifier untuk memastikan record yang dihasilkan akan selalu secure:
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 * Content thumbnail yang secara otomatis di-generate oleh system pada saat upload:
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 * Menggunakan table referensi yang berbeda untuk uploaded contents:
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 Kelemahan:
 
 * Beberapa dependency yang digunakan memiliki resiko vulnerability issue yang harus di antisipasi dengan patch versi terbaru:
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ### Laravel Admin
 
@@ -169,7 +169,7 @@ Kelemahan:
 * Laravel Admin masih menggunakan base framework Laravel 5.5 \(release tahun 2017 dan support hanya sampai 30 Agustus 2020 saja\) yang cukup tertinggal dari Long Term Support versi laravel terbaru yaitu versi 6.0
 * Walaupun support page dapat di translate ke bahasa Inggris namun main community heavily menggunakan Chinese language yang akan menjadi kendala di kemudian hari dalam hal troubleshooting:
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 * Umur community yang masih muda ini \(belum mature\) sehingga masih perlu tambahan waktu agar memiliki feature yang sebanding dengan CMS lainnya
 
@@ -251,5 +251,7 @@ Dari hasil score diatas Strapi unggul tipis dibandingkan dengan Laravel-admin sa
 
 Sedangkan di sisi lain Stapi selain memiliki kelebihan support NoSQL mongoDB database, Strapi juga dibangun di atas node.js framework yang memiliki memory serta CPU footprints yang lebih kecil dibanding Laravel-admin yang menggunakan PHP. 
 
-Sebagai catatan tambahan, kedua framework memiliki security vulnerability issue, dimana Strapi memiliki resiko dari sisi dependencies \(seperti knex, open, tunnel-agent dan cryptiles\) namun masih bisa di perbaiki dari sisi developer dengan melakukan dependency update ke versi yang lebih aman. Sedangkan Laravel-admin, security issue lebih kepada main Laravel framework sendiri yang masih menggunakan versi 5.5 \(release terakhir tahun 2017 dan cukup outdated\). Di sisi lain Laravel-admin support community dan  tersebut menggunakan Chinese language yang walaupun bisa di translate tetap support submission dan screen shots dari issue yang ada masih menggunakan bahasa selain Inggris yang sulit untuk dimengerti.
+Sebagai catatan tambahan, kedua framework memiliki security vulnerability issue, dimana Strapi memiliki resiko dari sisi dependencies \(seperti knex, open, tunnel-agent dan cryptiles\) namun masih bisa di perbaiki dari sisi developer dengan melakukan dependency update ke versi yang lebih aman. Sedangkan security issue pada Laravel-admin lebih kepada main Laravel framework sendiri yang masih menggunakan versi 5.5 \(release terakhir tahun 2017 dan cukup outdated\). 
+
+Dari sisi support community, main support dari Laravel-admin menggunakan Chinese language yang walaupun bisa di translate tetapi support submission dan screen shots dari issue yang ada masih menggunakan bahasa Chinese yang sulit untuk dimengerti. Sedangkan Strapi menggunakan standard English language yang lebih umum digunakan. 
 

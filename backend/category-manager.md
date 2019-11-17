@@ -36,7 +36,7 @@ Category Manager manages the input and output processes with simple validation f
 
 See Red highlight below for the scope of this service:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 ## Table Structure End Points
 
