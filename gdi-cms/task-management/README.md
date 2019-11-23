@@ -18,22 +18,27 @@ Status: Development Completed
 
 {% page-ref page="setup-aws-codepipeline-for-strapi.md" %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Task: Finalisasi Database Phase 1  
 Link: [https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1](https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1)  
-Status: In Development
+Status: Development Completed
 {% endhint %}
 
-{% hint style="info" %}
+MongoDB Client: [https://nosqlbooster.com/](https://nosqlbooster.com/)
+
+{% hint style="success" %}
 Task: Implement Strapi  
 Link: [https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi](https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi)  
-Status: In Development
+Status: Development Completed
 {% endhint %}
 
-{% hint style="warning" %}
+Login: [http://cms.gdi.pojokan.io/gdidashboard/](http://cms.gdi.pojokan.io/gdidashboard/)  
+Curriculum API: [http://cms.gdi.pojokan.io/curriculums](http://cms.gdi.pojokan.io/curriculums)
+
+{% hint style="info" %}
 Task: Setup AWS for Mongodb  
 Link: [https://trello.com/c/ZutyfFb1/5-setup-aws-for-mongodb](https://trello.com/c/ZutyfFb1/5-setup-aws-for-mongodb)  
-Status: To Do
+Status: In Development
 {% endhint %}
 
 {% hint style="danger" %}
