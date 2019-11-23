@@ -13,7 +13,7 @@ Berikut ini adalah list tasks untuk development process Content Management Syste
 {% hint style="success" %}
 Task: Setup AWS CodePipeline for Strapi   
 Link: [https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi](https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1)  
-Status: Development Completed
+Status: In QA
 {% endhint %}
 
 {% page-ref page="setup-aws-codepipeline-for-strapi.md" %}
@@ -21,7 +21,7 @@ Status: Development Completed
 {% hint style="success" %}
 Task: Finalisasi Database Phase 1  
 Link: [https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1](https://trello.com/c/H2EnMnzw/4-finalisasi-database-phase-1)  
-Status: Development Completed
+Status: In QA
 {% endhint %}
 
 MongoDB Client: [https://nosqlbooster.com/](https://nosqlbooster.com/)
@@ -29,7 +29,7 @@ MongoDB Client: [https://nosqlbooster.com/](https://nosqlbooster.com/)
 {% hint style="success" %}
 Task: Implement Strapi  
 Link: [https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi](https://trello.com/c/eUSB7e8N/6-setup-aws-code-pipeline-for-strapi)  
-Status: Development Completed
+Status: In QA
 {% endhint %}
 
 Login: [http://cms.gdi.pojokan.io/gdidashboard/](http://cms.gdi.pojokan.io/gdidashboard/)  
@@ -41,10 +41,10 @@ Link: [https://trello.com/c/ZutyfFb1/5-setup-aws-for-mongodb](https://trello.com
 Status: In Development
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Task: Web Platform Planning   
 Link: [https://trello.com/c/k0vO7E1s/8-web-platform-planning](https://trello.com/c/k0vO7E1s/8-web-platform-planning)  
-Status: In planning
+Status: To Do
 {% endhint %}
 
 {% hint style="danger" %}
